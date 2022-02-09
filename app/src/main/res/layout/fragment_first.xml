@@ -15,7 +15,7 @@
         <com.airbnb.lottie.LottieAnimationView
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:layout_weight="12"
+            android:layout_weight="10"
             app:lottie_autoPlay="true"
             app:lottie_fileName="3.json"
             app:lottie_loop="true" />
@@ -29,7 +29,7 @@
             android:text="Say Hello to"
             android:textAllCaps="false"
             android:textColor="@color/blue"
-            android:textSize="50sp"
+            android:textSize="40sp"
             android:textStyle="bold" />
 
         <TextView
@@ -40,7 +40,7 @@
             android:text="Global Top-Up"
             android:textAllCaps="false"
             android:textColor="@color/blue"
-            android:textSize="50sp"
+            android:textSize="40sp"
             android:textStyle="bold" />
 
         <TextView
@@ -52,7 +52,7 @@
             android:text="Send mobile top-up more than 500 networks"
             android:textAllCaps="false"
             android:textColor="@color/blue"
-            android:textSize="16sp" />
+            android:textSize="12sp" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -62,6 +62,6 @@
             android:text="in over 140 countries"
             android:textAllCaps="false"
             android:textColor="@color/blue"
-            android:textSize="16sp" />
+            android:textSize="12sp" />
     </LinearLayout>
 </FrameLayout>
